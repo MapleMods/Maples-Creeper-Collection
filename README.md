@@ -1,6 +1,6 @@
 # Maple's Creeper Collection
 
-Minecraft 26.1.0 | Version 1.0
+Minecraft 26.1.0 | Version 1.1
 
 Download the mod here! :)
 

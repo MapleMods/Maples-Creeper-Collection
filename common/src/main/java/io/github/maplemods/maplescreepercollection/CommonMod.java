@@ -18,7 +18,7 @@ public class CommonMod {
         RegisterFunctions.registerTextures(Constants.MOD_ID, EntityType.CREEPER, "summer", "midsommar_creeper", 1);
         RegisterFunctions.registerTextures(Constants.MOD_ID, EntityType.CREEPER, "summer", "sunflower_creeper", 1);
 
-        RegisterFunctions.registerTextures(Constants.MOD_ID, EntityType.CREEPER, "winter", "frozen_creeper ", 1);
+        RegisterFunctions.registerTextures(Constants.MOD_ID, EntityType.CREEPER, "winter", "frozen_creeper", 1);
         RegisterFunctions.registerTextures(Constants.MOD_ID, EntityType.CREEPER, "winter", "snow_covered_creeper", 1);
     }
 }
